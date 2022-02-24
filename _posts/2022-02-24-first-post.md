@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+tags: test first
+category: ongoing construction work
 ---
 
 # Welcome
