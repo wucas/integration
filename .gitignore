@@ -16,3 +16,4 @@ _site
 *.toc
 Gemfile.lock
 copy
+.DS_store
